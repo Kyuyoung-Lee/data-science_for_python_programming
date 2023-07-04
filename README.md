@@ -1,5 +1,6 @@
 # 2023 spring semester data science programming
-
+studied code list
+- 
 
 
 
